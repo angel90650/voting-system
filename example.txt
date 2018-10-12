@@ -1,0 +1,11 @@
+timetable
+2 2 3
+2 3 5
+2 5 3
+log
+A 3 5
+B 4 3
+dictionary
+12
+32
+end
